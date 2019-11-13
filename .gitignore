@@ -1,0 +1,11 @@
+MANIFEST
+
+logs/latest.xml
+*.pyc
+*.log
+etc/*
+
+\venv/
+\.idea/
+\.pytest_cache/
+\.tox/
