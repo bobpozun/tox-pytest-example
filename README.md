@@ -1,2 +1,2 @@
-To setup: `pip3 install tox`  
+To setup: `python3 -m pip install tox`  
 To run: `tox`
